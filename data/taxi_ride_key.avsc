@@ -1,0 +1,11 @@
+{
+  "namespace": "com.avro.taxi",
+  "type": "record",
+  "name": "TaxiRideKey",
+  "fields": [
+    {
+      "name": "vendorId",
+      "type": "int"
+    }
+  ]
+}
